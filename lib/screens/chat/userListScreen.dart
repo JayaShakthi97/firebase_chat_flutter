@@ -1,10 +1,10 @@
 import 'package:chat_app/firebaseServices/authService.dart';
 import 'package:chat_app/firebaseServices/userService.dart';
 import 'package:chat_app/models/appUser.dart';
+import 'package:chat_app/screens/chat/userListItemWidget.dart';
 import 'package:chat_app/widgets/fullScreenEmpty.dart';
 import 'package:chat_app/widgets/fullScreenError.dart';
 import 'package:chat_app/widgets/fullScreenLoading.dart';
-import 'file:///C:/Users/Shakthi/AndroidStudioProjects/chat_app/lib/screens/chat/userListItemWidget.dart';
 
 import 'package:firebase_auth/firebase_auth.dart' as auth;
 import 'package:flutter/material.dart';

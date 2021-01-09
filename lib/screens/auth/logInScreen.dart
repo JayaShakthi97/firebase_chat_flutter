@@ -1,5 +1,5 @@
-import 'file:///C:/Users/Shakthi/AndroidStudioProjects/chat_app/lib/screens/auth/registerScreen.dart';
 import 'package:chat_app/firebaseServices/authService.dart';
+import 'package:chat_app/screens/auth/registerScreen.dart';
 import 'package:chat_app/screens/chat/chatListScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart' as auth;
